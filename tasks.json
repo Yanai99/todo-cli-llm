@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "title": "Finish report",
+    "description": "",
+    "category": "General",
+    "deadline": "No deadline",
+    "done": true
+  },
+  {
+    "id": 2,
+    "title": "Call client",
+    "description": "",
+    "category": "General",
+    "deadline": "No deadline",
+    "done": false
+  }
+]
